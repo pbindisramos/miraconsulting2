@@ -5,10 +5,10 @@ export default function Logo() {
     <Image
       src="/images/logo-miraconsulting.png"
       alt="Mira Consulting"
-      width={240}
-      height={143}
+      width={320}
+      height={191}
       priority
-      className="h-10 w-auto"
+      className="h-14 w-auto md:h-16"
     />
   );
 }
