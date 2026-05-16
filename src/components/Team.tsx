@@ -14,14 +14,14 @@ const TEAM: TeamMember[] = [
     role: "Directora & Coach Ejecutiva",
     bio: "Psicóloga organizacional con más de 15 años acompañando procesos de cambio en empresas de distintos sectores. Especialista en coaching ejecutivo, desarrollo de liderazgo y cultura organizacional. Fundadora de Mira Consulting.",
     image: "/images/team/team-sandra-ramos.png",
-    linkedin: "https://www.linkedin.com/",
+    linkedin: "https://www.linkedin.com/in/sandra-ramos-coach/",
   },
   {
     name: "Esther Munizaga",
     role: "Consultora & Coach",
     bio: "Coach certificada y consultora en desarrollo organizacional, con amplia experiencia en programas de liderazgo, bienestar laboral y selección de talentos. Especialista en acompañamiento de transiciones personales y profesionales.",
     image: "/images/team/team-ester-munizaga.png",
-    linkedin: "https://www.linkedin.com/",
+    linkedin: "https://cl.linkedin.com/in/ester-munizaga-549ba219",
   },
 ];
 
